@@ -19,7 +19,7 @@
   [ESP-IDF v5.1](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/index.html)
 
 
-## 制限事項(2023/02/22 14:00現在)
+## 制限事項(2023/06/27 00:47現在)
 
  3-1. 16(/24)Bit、2Channel、(1/)5ms単位対応
 
